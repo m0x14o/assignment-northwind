@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => '',
-	'password' => '',
-	'database' => '',
+	'hostname' => 'mysql.cosc.canterbury.ac.nz',
+	'username' => 'jli187',
+	'password' => '39923031',
+	'database' => 'jli187',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
